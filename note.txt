@@ -1,0 +1,5 @@
+maaf pak, untuk file di github berbeda dengan yg di firebase
+dikarenakan file picture di firebase saya hanya bisa format ".png" dan size filenya sangat besar
+sedangkan di github maksimal upload file 25mb
+jadi untuk github saya menggunakan format ".jpg" dengan ukuran yang lebih kecil untuk bisa di upload.
+terima kasih pak atas perhatiannya pak.
